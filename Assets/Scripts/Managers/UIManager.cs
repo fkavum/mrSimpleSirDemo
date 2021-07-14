@@ -16,6 +16,7 @@ public class UIManager : Singleton<UIManager>
 
     private void Start()
     {
+        Taptic.tapticOn = true;
         CloseAllUI();
         startMenuUI.SetActive(true);
         GameState.ChangeState(GameStateEnum.GameStart);
@@ -29,6 +30,7 @@ public class UIManager : Singleton<UIManager>
     public void OpenWinMenuUI()
     {
         finalScoreText.text = scoreText.text; //hehe
+        Taptic.Success();
         CloseAllUI();
         winMenuUI.SetActive(true);
         GameState.ChangeState(GameStateEnum.EndGame);

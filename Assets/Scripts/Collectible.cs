@@ -19,6 +19,7 @@ public class Collectible : MonoBehaviour
     {
         sCollider.enabled = false;
         dieParticle.Play();
+        Taptic.Light();
         transform.DOScale(1.2f, 0.5f).OnComplete(()=> {
             transform.localScale = Vector3.one;
             spawner.AddToPool(this);
