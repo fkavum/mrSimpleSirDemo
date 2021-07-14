@@ -1,0 +1,1904 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.9f1 (108be757e447) revision 1084391'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1083; Version 2009; 64bit' Language: 'en' Physical Memory: 16221 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\2020.3.9f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/ProjeDosyalari/UnityProjects/mrSimpleSirDemo
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54380
+Successfully changed project path to: D:/ProjeDosyalari/UnityProjects/mrSimpleSirDemo
+D:/ProjeDosyalari/UnityProjects/mrSimpleSirDemo
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 24.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1 (108be757e447)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/2020.3.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/ProjeDosyalari/UnityProjects/mrSimpleSirDemo/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 Ti (ID=0x1f95)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.6242
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/2020.3.9f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/2020.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/2020.3.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56468
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/2020.3.9f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/2020.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002243 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 22.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.059 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000925 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.742 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1164 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 60.2 MB.
+System memory in use after: 60.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1610.
+Total: 1.316900 ms (FindLiveObjects: 0.115400 ms CreateObjectMapping: 0.034100 ms MarkObjects: 1.114100 ms  DeleteObjects: 0.052700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/Player.cs
+  artifactKey: Guid(2278574f98e17134e8df1dee3895a7fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player.cs using Guid(2278574f98e17134e8df1dee3895a7fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2da02525a03049c9a581d6fd3d7a650') in 0.109535 seconds
+  Import took 0.111213 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000888 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.741 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.7 MB.
+System memory in use after: 58.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1613.
+Total: 1.568300 ms (FindLiveObjects: 0.124600 ms CreateObjectMapping: 0.035900 ms MarkObjects: 1.369900 ms  DeleteObjects: 0.037400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001299 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.709 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.7 MB.
+System memory in use after: 58.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1616.
+Total: 1.256700 ms (FindLiveObjects: 0.114700 ms CreateObjectMapping: 0.032400 ms MarkObjects: 1.096900 ms  DeleteObjects: 0.012100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000850 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.691 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.7 MB.
+System memory in use after: 58.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1619.
+Total: 1.376700 ms (FindLiveObjects: 0.152600 ms CreateObjectMapping: 0.033800 ms MarkObjects: 1.179200 ms  DeleteObjects: 0.010600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000991 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.727 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.7 MB.
+System memory in use after: 58.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1622.
+Total: 1.349800 ms (FindLiveObjects: 0.134600 ms CreateObjectMapping: 0.041500 ms MarkObjects: 1.161700 ms  DeleteObjects: 0.011200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001028 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.740 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.8 MB.
+System memory in use after: 58.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1625.
+Total: 1.333000 ms (FindLiveObjects: 0.119300 ms CreateObjectMapping: 0.033500 ms MarkObjects: 1.168500 ms  DeleteObjects: 0.010900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 676.413523 seconds.
+  path: Assets/Scripts/Managers/InputManager.cs
+  artifactKey: Guid(7e1302a24fed87e4ea9c2105f84025fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Managers/InputManager.cs using Guid(7e1302a24fed87e4ea9c2105f84025fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8192255a430fcdbd978d2377453ac20f') in 0.006913 seconds
+  Import took 0.008470 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000897 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.660 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.8 MB.
+System memory in use after: 58.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1628.
+Total: 1.363700 ms (FindLiveObjects: 0.114200 ms CreateObjectMapping: 0.032900 ms MarkObjects: 1.205100 ms  DeleteObjects: 0.010800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001175 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.688 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.8 MB.
+System memory in use after: 58.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1631.
+Total: 1.336900 ms (FindLiveObjects: 0.123300 ms CreateObjectMapping: 0.032000 ms MarkObjects: 1.171000 ms  DeleteObjects: 0.010000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001004 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.789 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.8 MB.
+System memory in use after: 58.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1634.
+Total: 2.299900 ms (FindLiveObjects: 0.204900 ms CreateObjectMapping: 0.077100 ms MarkObjects: 1.996800 ms  DeleteObjects: 0.019900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000844 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.772 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.8 MB.
+System memory in use after: 58.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1637.
+Total: 1.292400 ms (FindLiveObjects: 0.117300 ms CreateObjectMapping: 0.032100 ms MarkObjects: 1.131800 ms  DeleteObjects: 0.010700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1233.827069 seconds.
+  path: Assets/Scripts/Singleton.cs
+  artifactKey: Guid(d14ac983d9a41334c9643d2019781ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Singleton.cs using Guid(d14ac983d9a41334c9643d2019781ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb7b14fe4fba2b413eba566f58e8c871') in 0.008105 seconds
+  Import took 0.062329 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001034 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.664 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1145 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.8 MB.
+System memory in use after: 58.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1641.
+Total: 1.452600 ms (FindLiveObjects: 0.160800 ms CreateObjectMapping: 0.046200 ms MarkObjects: 1.232400 ms  DeleteObjects: 0.012000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 602.866543 seconds.
+  path: Assets/Scripts/Singleton.cs
+  artifactKey: Guid(d14ac983d9a41334c9643d2019781ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Singleton.cs using Guid(d14ac983d9a41334c9643d2019781ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99282b2fb7131a67a0c7003f59c9c8ba') in 0.103378 seconds
+  Import took 0.119555 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001167 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.661 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1145 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.8 MB.
+System memory in use after: 58.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1644.
+Total: 1.261600 ms (FindLiveObjects: 0.111800 ms CreateObjectMapping: 0.032000 ms MarkObjects: 1.107600 ms  DeleteObjects: 0.009700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001056 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.728 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1145 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.8 MB.
+System memory in use after: 58.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1647.
+Total: 1.426400 ms (FindLiveObjects: 0.132800 ms CreateObjectMapping: 0.033000 ms MarkObjects: 1.248200 ms  DeleteObjects: 0.011500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001011 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.677 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1145 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.8 MB.
+System memory in use after: 58.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1650.
+Total: 1.259400 ms (FindLiveObjects: 0.111800 ms CreateObjectMapping: 0.031800 ms MarkObjects: 1.104800 ms  DeleteObjects: 0.010500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001228 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.720 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1145 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.8 MB.
+System memory in use after: 58.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1653.
+Total: 1.296400 ms (FindLiveObjects: 0.113000 ms CreateObjectMapping: 0.031000 ms MarkObjects: 1.140900 ms  DeleteObjects: 0.011000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001217 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.707 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1145 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.8 MB.
+System memory in use after: 58.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1656.
+Total: 1.274800 ms (FindLiveObjects: 0.115900 ms CreateObjectMapping: 0.032900 ms MarkObjects: 1.115200 ms  DeleteObjects: 0.010000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000948 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.737 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1145 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.8 MB.
+System memory in use after: 58.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1659.
+Total: 1.412500 ms (FindLiveObjects: 0.128100 ms CreateObjectMapping: 0.037300 ms MarkObjects: 1.233900 ms  DeleteObjects: 0.012400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001044 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.779 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1145 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.9 MB.
+System memory in use after: 59.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1662.
+Total: 1.271900 ms (FindLiveObjects: 0.112000 ms CreateObjectMapping: 0.032100 ms MarkObjects: 1.116500 ms  DeleteObjects: 0.010700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000950 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.738 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1145 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.9 MB.
+System memory in use after: 59.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1665.
+Total: 1.378200 ms (FindLiveObjects: 0.114700 ms CreateObjectMapping: 0.031600 ms MarkObjects: 1.220300 ms  DeleteObjects: 0.011000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001201 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.714 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1145 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.9 MB.
+System memory in use after: 59.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1668.
+Total: 1.804700 ms (FindLiveObjects: 0.177400 ms CreateObjectMapping: 0.050600 ms MarkObjects: 1.561500 ms  DeleteObjects: 0.014400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001162 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.767 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1145 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.9 MB.
+System memory in use after: 59.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1671.
+Total: 1.341600 ms (FindLiveObjects: 0.115700 ms CreateObjectMapping: 0.033400 ms MarkObjects: 1.179800 ms  DeleteObjects: 0.011700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001545 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.838 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1145 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.9 MB.
+System memory in use after: 59.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1674.
+Total: 2.045200 ms (FindLiveObjects: 0.122900 ms CreateObjectMapping: 0.034500 ms MarkObjects: 1.871400 ms  DeleteObjects: 0.015100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001599 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.816 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1145 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.9 MB.
+System memory in use after: 59.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1677.
+Total: 1.824000 ms (FindLiveObjects: 0.226400 ms CreateObjectMapping: 0.060600 ms MarkObjects: 1.506200 ms  DeleteObjects: 0.029300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000965 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.822 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1145 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.9 MB.
+System memory in use after: 59.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1680.
+Total: 1.310000 ms (FindLiveObjects: 0.120100 ms CreateObjectMapping: 0.032200 ms MarkObjects: 1.145700 ms  DeleteObjects: 0.011400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001101 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.686 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1145 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.9 MB.
+System memory in use after: 59.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1683.
+Total: 1.302800 ms (FindLiveObjects: 0.116800 ms CreateObjectMapping: 0.032700 ms MarkObjects: 1.142300 ms  DeleteObjects: 0.010500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2496.455905 seconds.
+  path: Assets/Scripts/UIScreenFader.cs
+  artifactKey: Guid(4454a86d0ceba61408203e7748b3ea69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIScreenFader.cs using Guid(4454a86d0ceba61408203e7748b3ea69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47f0aa6ed2228cea3caf67759c0cab96') in 0.106671 seconds
+  Import took 0.108828 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000910 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.867 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.9 MB.
+System memory in use after: 59.0 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1685.
+Total: 1.443000 ms (FindLiveObjects: 0.136600 ms CreateObjectMapping: 0.031300 ms MarkObjects: 1.238600 ms  DeleteObjects: 0.035900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000870 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.744 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.9 MB.
+System memory in use after: 59.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1688.
+Total: 1.315300 ms (FindLiveObjects: 0.126700 ms CreateObjectMapping: 0.034500 ms MarkObjects: 1.141700 ms  DeleteObjects: 0.011500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 333.489779 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_1.mat
+  artifactKey: Guid(880bf59141236224d8a8d9d3fd430708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_1.mat using Guid(880bf59141236224d8a8d9d3fd430708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '989c216f68ed123b11195eb0307dd459') in 0.398470 seconds
+  Import took 0.402500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.018.fbx
+  artifactKey: Guid(1001bd82a49c9a045a80605ac6a5dad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.018.fbx using Guid(1001bd82a49c9a045a80605ac6a5dad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25df10cab2392ca178144b3b4c501522') in 0.110219 seconds
+  Import took 0.146691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_10.mat
+  artifactKey: Guid(8f7fc12728facfe4e9b81cf4edb4c058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_10.mat using Guid(8f7fc12728facfe4e9b81cf4edb4c058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba1ba154a1009ef585fa2f69885aecad') in 0.103898 seconds
+  Import took 0.106588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.026.fbx
+  artifactKey: Guid(64197a824514dc442a9b897cbc23af63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.026.fbx using Guid(64197a824514dc442a9b897cbc23af63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4a62981c897db224c112d03f171e2cd') in 0.119749 seconds
+  Import took 0.138457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_9.mat
+  artifactKey: Guid(9f80c72a7bf0eff4aab3ccbd3d1ab38d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_9.mat using Guid(9f80c72a7bf0eff4aab3ccbd3d1ab38d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bff0ca687a720ec7ec6d9421f6ad55d') in 0.113730 seconds
+  Import took 0.127261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.028.fbx
+  artifactKey: Guid(dd7ef82f98c2a1c41b5ec9fe8ba9ef95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.028.fbx using Guid(dd7ef82f98c2a1c41b5ec9fe8ba9ef95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64bde2835744ca7863c43b2eb8483b54') in 0.063433 seconds
+  Import took 0.104143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Grey/Grey_5.mat
+  artifactKey: Guid(007056541b3a773409f252424e186aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Grey/Grey_5.mat using Guid(007056541b3a773409f252424e186aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66417714eeacee45a9b4776897fa182e') in 0.113356 seconds
+  Import took 0.136865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.023.fbx
+  artifactKey: Guid(f2532adea95690d43ab9cc1abe98e241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.023.fbx using Guid(f2532adea95690d43ab9cc1abe98e241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fb8f39da1a3356b98e3c2edbcd3cd97') in 0.061120 seconds
+  Import took 0.082612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.019.fbx
+  artifactKey: Guid(41cf606bc15e7bd449286cc3cfd05978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.019.fbx using Guid(41cf606bc15e7bd449286cc3cfd05978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcd38ad7d1cf4ce7b9a076edb72af091') in 0.089082 seconds
+  Import took 0.124151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.006.fbx
+  artifactKey: Guid(f416aff6471c148418db5154d4344027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.006.fbx using Guid(f416aff6471c148418db5154d4344027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ff660866a4261a0eaad347f9c53dd03') in 0.084456 seconds
+  Import took 0.086970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Orange/Orange_1.mat
+  artifactKey: Guid(4464563e826a4d04a890ea6835019aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Orange/Orange_1.mat using Guid(4464563e826a4d04a890ea6835019aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f336fae1c347205b6d05bfae0caf3b27') in 0.025139 seconds
+  Import took 0.027848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Orange/Orange_6.mat
+  artifactKey: Guid(3fbb51fb1b141e744a147816eb3565b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Orange/Orange_6.mat using Guid(3fbb51fb1b141e744a147816eb3565b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd521a835768b5f6135b6fd6417dc9b70') in 0.147326 seconds
+  Import took 0.192755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.029.fbx
+  artifactKey: Guid(89d8d72cf966c854ea4d29d519d12c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.029.fbx using Guid(89d8d72cf966c854ea4d29d519d12c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a141e067696029aea977f8257feb86e') in 0.055412 seconds
+  Import took 0.057701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Stairs.003.fbx
+  artifactKey: Guid(64431b27032f33541b556e5cb9dcb219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Stairs.003.fbx using Guid(64431b27032f33541b556e5cb9dcb219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c34a2314630c800d8a7bd8d0be77d54a') in 0.089437 seconds
+  Import took 0.102121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.022.fbx
+  artifactKey: Guid(2c33c87aa1837d44ba2d733fddc76526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.022.fbx using Guid(2c33c87aa1837d44ba2d733fddc76526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7c33ab5c30a1ef76d11a8ecb06f4e3c') in 0.098049 seconds
+  Import took 0.140493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.013.fbx
+  artifactKey: Guid(f3e48ea5daeb6e74c948e42b7b6a1606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.013.fbx using Guid(f3e48ea5daeb6e74c948e42b7b6a1606) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e10786c8794e84a0dc66e8f3102ec79f') in 0.095678 seconds
+  Import took 0.147630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Yellow/Yellow_4.mat
+  artifactKey: Guid(42ad0e05a3f5f0144bb44704b59b0c3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Yellow/Yellow_4.mat using Guid(42ad0e05a3f5f0144bb44704b59b0c3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdf56accabb502bda554385d1564d023') in 0.132521 seconds
+  Import took 0.167033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Pink/Pink_8.mat
+  artifactKey: Guid(1651607fe0826f04d8197757c6dbe25f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Pink/Pink_8.mat using Guid(1651607fe0826f04d8197757c6dbe25f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd6fe5950bebb43b7c1e2eaf22ce532f') in 0.109110 seconds
+  Import took 0.111267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Stairs.001.fbx
+  artifactKey: Guid(5d8fc34974e9e664291e1bff8985c0d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Stairs.001.fbx using Guid(5d8fc34974e9e664291e1bff8985c0d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2c3cc013ada2a0d023a84526bef3365') in 0.116164 seconds
+  Import took 0.117899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Pink/Pink_10.mat
+  artifactKey: Guid(bf4489aaaa5411845ab21ac60fa54501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Pink/Pink_10.mat using Guid(bf4489aaaa5411845ab21ac60fa54501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5df9b493137343da411508ce0709ede') in 0.115735 seconds
+  Import took 0.138757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Orange/Orange_2.mat
+  artifactKey: Guid(93705c8208ed1304b89384dc85d3fb06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Orange/Orange_2.mat using Guid(93705c8208ed1304b89384dc85d3fb06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b817975edbc837184458b37f3c9765e') in 0.026145 seconds
+  Import took 0.028286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.011.fbx
+  artifactKey: Guid(7a8868ceec2807245b9553d4a042f702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.011.fbx using Guid(7a8868ceec2807245b9553d4a042f702) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d50fb49bb6dd95288f063dbb6ad7098') in 0.067444 seconds
+  Import took 0.147039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Orange/Orange_9.mat
+  artifactKey: Guid(12ad1df57a06abc4ab37ed5d6d2d5386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Orange/Orange_9.mat using Guid(12ad1df57a06abc4ab37ed5d6d2d5386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '368e4b69af93a5b09054bf18e94b325f') in 0.082336 seconds
+  Import took 0.084252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Red/Red_1.mat
+  artifactKey: Guid(1bef6174832ce994987824718f0207c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Red/Red_1.mat using Guid(1bef6174832ce994987824718f0207c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e399d4646fa1764c5261030335e577c8') in 0.143659 seconds
+  Import took 0.146459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.009.fbx
+  artifactKey: Guid(d408ddb4014e6e34b8074de49e1e7019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.009.fbx using Guid(d408ddb4014e6e34b8074de49e1e7019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26aa6e9f2287c4b461c8501cdebe3cad') in 0.051236 seconds
+  Import took 0.078158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_7.mat
+  artifactKey: Guid(cbf017f6bad132c499e0709e3345d080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_7.mat using Guid(cbf017f6bad132c499e0709e3345d080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c79581e526265b7066b3ae2fa7a16c9a') in 0.123094 seconds
+  Import took 0.148283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Red/Red_10.mat
+  artifactKey: Guid(6050999adefbe334bba18599a7b05f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Red/Red_10.mat using Guid(6050999adefbe334bba18599a7b05f48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a341a2a4a90f72f8189bf272151a911') in 0.065725 seconds
+  Import took 0.123197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Orange/Orange_10.mat
+  artifactKey: Guid(cadbffec3054f9744b906efab90649ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Orange/Orange_10.mat using Guid(cadbffec3054f9744b906efab90649ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25b17eb4842d4aab79be92fe31fcf921') in 0.087247 seconds
+  Import took 0.089509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.007.fbx
+  artifactKey: Guid(673e5bc0fd8cc7a4d8fba1b8d7fcc6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.007.fbx using Guid(673e5bc0fd8cc7a4d8fba1b8d7fcc6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b297b0ce5806abc3588f96abb8b34be6') in 0.079564 seconds
+  Import took 0.081795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_4.mat
+  artifactKey: Guid(fdacfbae24d30ee4b824d4f347c7bb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_4.mat using Guid(fdacfbae24d30ee4b824d4f347c7bb0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dde233e149bf3f8e769dba5b7e158025') in 0.070076 seconds
+  Import took 0.072095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Orange/Orange_7.mat
+  artifactKey: Guid(b5c538bb0be68cd4188d521dc6e1b43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Orange/Orange_7.mat using Guid(b5c538bb0be68cd4188d521dc6e1b43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb1dbc06aee05d4b3bfcddb54ccf9251') in 0.040370 seconds
+  Import took 0.042245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Curved Stairs.001.fbx
+  artifactKey: Guid(82e484bd962d2c542bd6d111f0b5eaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Curved Stairs.001.fbx using Guid(82e484bd962d2c542bd6d111f0b5eaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3dacca6019ae42572e118bf8a0c8edc') in 0.079867 seconds
+  Import took 0.082190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Yellow/Yellow_3.mat
+  artifactKey: Guid(2fdad9288ca1171428734bc494b21419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Yellow/Yellow_3.mat using Guid(2fdad9288ca1171428734bc494b21419) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5a6157e8ffcb3c019634e018750b763') in 0.101384 seconds
+  Import took 0.125613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_8.mat
+  artifactKey: Guid(f18b5c90d872a3a48a459e4b20f7de29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_8.mat using Guid(f18b5c90d872a3a48a459e4b20f7de29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f12d8d6bfe90c11d9d3a86e4e5257881') in 0.088620 seconds
+  Import took 0.115254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.fbx
+  artifactKey: Guid(f8bea4c9e8d73ef4ca431a2076e25dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.fbx using Guid(f8bea4c9e8d73ef4ca431a2076e25dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8dc7a7135a7c0c85337c1664082afe2') in 0.080749 seconds
+  Import took 0.096676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Yellow/Yellow_5.mat
+  artifactKey: Guid(ade049448e544d94498ad03a121ea152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Yellow/Yellow_5.mat using Guid(ade049448e544d94498ad03a121ea152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2a9c74b097c9f41efee8443b18b2846') in 0.085419 seconds
+  Import took 0.087464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Red/Red_9.mat
+  artifactKey: Guid(0206025cb345d16488ac1f9e2b587dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Red/Red_9.mat using Guid(0206025cb345d16488ac1f9e2b587dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f115c18c25a16af2fed1ccd84ad470f') in 0.072169 seconds
+  Import took 0.074420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Grey/Grey_9.mat
+  artifactKey: Guid(7817480cb43be8b409e989b9c4ab0132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Grey/Grey_9.mat using Guid(7817480cb43be8b409e989b9c4ab0132) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e46467471d50b09374e6cf906401b76') in 0.087371 seconds
+  Import took 0.089301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Grey/Grey_1.mat
+  artifactKey: Guid(85cddc73664e22c4b8910f1aa0a99914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Grey/Grey_1.mat using Guid(85cddc73664e22c4b8910f1aa0a99914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4e991829dc460b7973ce189a95d3d97') in 0.117660 seconds
+  Import took 0.119781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.010.fbx
+  artifactKey: Guid(48b3d604daac39a419c5619912b7263c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.010.fbx using Guid(48b3d604daac39a419c5619912b7263c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1620d670250e13708ef3e6681606139c') in 0.044825 seconds
+  Import took 0.061733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.008.fbx
+  artifactKey: Guid(4e48f3fef628c954b9f43d55bfc33d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.008.fbx using Guid(4e48f3fef628c954b9f43d55bfc33d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e8ac48ddbf40efdd9f76cc7f864a273') in 0.071089 seconds
+  Import took 0.073765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Pink/Pink_1.mat
+  artifactKey: Guid(1f9f8c9de9509294ca6949b681b7491e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Pink/Pink_1.mat using Guid(1f9f8c9de9509294ca6949b681b7491e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a745cd4ced40c89da48efdf1df5fdbc7') in 0.109987 seconds
+  Import took 0.112440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/ThirdParty/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdddd331c3f1b7826858a8d92db67e39') in 0.065712 seconds
+  Import took 0.067774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Pink/Pink_6.mat
+  artifactKey: Guid(85dba0447f817e84cab660c26893d3fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Pink/Pink_6.mat using Guid(85dba0447f817e84cab660c26893d3fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '000cd10b2e3b95a5cd4d44ae36acb847') in 0.412554 seconds
+  Import took 0.458792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_2.mat
+  artifactKey: Guid(4cc73f247dcc2e841a79a5290b72c2c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_2.mat using Guid(4cc73f247dcc2e841a79a5290b72c2c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bd80f3834e43be4b0a54123ce6d301d') in 0.120785 seconds
+  Import took 0.123466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Yellow/Yellow_6.mat
+  artifactKey: Guid(5e83eac897ce17d4ab2ac374c8d6f941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Yellow/Yellow_6.mat using Guid(5e83eac897ce17d4ab2ac374c8d6f941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7523dd79e718381f07f3e63abf2cebf') in 0.094612 seconds
+  Import took 0.097131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_2.mat
+  artifactKey: Guid(4cc73f247dcc2e841a79a5290b72c2c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_2.mat using Guid(4cc73f247dcc2e841a79a5290b72c2c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bd80f3834e43be4b0a54123ce6d301d') in 0.015914 seconds
+  Import took 0.017871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Red/Red_4.mat
+  artifactKey: Guid(45cba46d4b15a3046bc41add2347e4bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Red/Red_4.mat using Guid(45cba46d4b15a3046bc41add2347e4bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eda2be9f4cc8f1294925d654188f5c28') in 0.079093 seconds
+  Import took 0.095455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Red/Red_8.mat
+  artifactKey: Guid(6c372b6b919bc2240b465dc11fc79988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Red/Red_8.mat using Guid(6c372b6b919bc2240b465dc11fc79988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff407a2519ed849812fa79f858f99bb6') in 0.088817 seconds
+  Import took 0.091647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Pink/Pink_3.mat
+  artifactKey: Guid(7b7af635219179747b423efeb0532081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Pink/Pink_3.mat using Guid(7b7af635219179747b423efeb0532081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2f754008176436f3cdeb2c033047506') in 0.110447 seconds
+  Import took 0.112159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Red/Red_7.mat
+  artifactKey: Guid(ebca30f447f1d1848812d23bd50f789a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Red/Red_7.mat using Guid(ebca30f447f1d1848812d23bd50f789a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80e29161bb595a1aa4fb20f2e60dd6a7') in 0.129522 seconds
+  Import took 0.131710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Red/Red_2.mat
+  artifactKey: Guid(ff7a71a59316b22469a304c94f2b4b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Red/Red_2.mat using Guid(ff7a71a59316b22469a304c94f2b4b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2202332d6321db0698350931c068bcd9') in 0.093244 seconds
+  Import took 0.095728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.030.fbx
+  artifactKey: Guid(0cffdac91ecfecd43b334db4412a9676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.030.fbx using Guid(0cffdac91ecfecd43b334db4412a9676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17e10ef509d9e8e23ef686deac3d0e33') in 0.078484 seconds
+  Import took 0.099923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Yellow/Yellow_1.mat
+  artifactKey: Guid(f413c646e1dd98e4b9c613bae5e2c599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Yellow/Yellow_1.mat using Guid(f413c646e1dd98e4b9c613bae5e2c599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5026c6f22268aaff56bfc8a30c5d38d') in 0.093206 seconds
+  Import took 0.095111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Orange/Orange_5.mat
+  artifactKey: Guid(66540bd7b72fbfb43a532a03ffb6130b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Orange/Orange_5.mat using Guid(66540bd7b72fbfb43a532a03ffb6130b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '936d681c0878489d0a055dbb28e6dd03') in 0.086885 seconds
+  Import took 0.113774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Orange/Orange_4.mat
+  artifactKey: Guid(50b72700454ff5a4fa72db5a4ea4938b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Orange/Orange_4.mat using Guid(50b72700454ff5a4fa72db5a4ea4938b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c2d4b6d84545bb350571d9a3bdfda09') in 0.226519 seconds
+  Import took 0.228707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.027.fbx
+  artifactKey: Guid(c51516bcd1bb4d24c83fdb703d165570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.027.fbx using Guid(c51516bcd1bb4d24c83fdb703d165570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '171b481fd125951f266791a91ec7534b') in 0.051868 seconds
+  Import took 0.054264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.020.fbx
+  artifactKey: Guid(a0fcedf87a5ddef489023b0394cd7325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.020.fbx using Guid(a0fcedf87a5ddef489023b0394cd7325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7111ae341f7ce8c97e8d92937fe70c00') in 0.087996 seconds
+  Import took 0.089742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/ThirdParty/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '289988fcecf3b00d1602f8d2b589f7dd') in 0.142467 seconds
+  Import took 0.164855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.014.fbx
+  artifactKey: Guid(13168e5a80eef8443ba96bd8b8430840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.014.fbx using Guid(13168e5a80eef8443ba96bd8b8430840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bded7188b0764de0aa527262968ddb5') in 0.064143 seconds
+  Import took 0.205226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.004.fbx
+  artifactKey: Guid(ea6a96a4e30720646b1b0fae12da8525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.004.fbx using Guid(ea6a96a4e30720646b1b0fae12da8525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbc5c978b77784f46adb683402431443') in 0.317303 seconds
+  Import took 0.319503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Plane.fbx
+  artifactKey: Guid(b201602863eb18b4da79731f94f83fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Plane.fbx using Guid(b201602863eb18b4da79731f94f83fb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72182520417bfaa78bc5e3db906e5078') in 0.046695 seconds
+  Import took 0.049327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000579 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Grey/Grey_10.mat
+  artifactKey: Guid(d5cc106b40f5cec49b57d5386d190865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Grey/Grey_10.mat using Guid(d5cc106b40f5cec49b57d5386d190865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddf8dd0a3cbd9580c3909ac94dfe1350') in 0.071491 seconds
+  Import took 0.073598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.024.fbx
+  artifactKey: Guid(e0d1013c4a236e94c95911c34021768b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.024.fbx using Guid(e0d1013c4a236e94c95911c34021768b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4e2fbef66e3fdcfb9c63dd4026a4c37') in 0.067474 seconds
+  Import took 0.069341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.003.fbx
+  artifactKey: Guid(7bf5c6848ca2d4242a95f8cd53949318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.003.fbx using Guid(7bf5c6848ca2d4242a95f8cd53949318) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f34d95c97538690e91157097c65cec25') in 0.048205 seconds
+  Import took 0.050104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Red/Red_5.mat
+  artifactKey: Guid(4a8ad5290f2411842b9e416e7b89b2a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Red/Red_5.mat using Guid(4a8ad5290f2411842b9e416e7b89b2a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8cc7644ddf28c8c70f67eef33acb190') in 0.083041 seconds
+  Import took 0.085260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Pink/Pink_9.mat
+  artifactKey: Guid(5e53fc77043a3094a8ef5ee0e58db88d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Pink/Pink_9.mat using Guid(5e53fc77043a3094a8ef5ee0e58db88d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '807b6cc2c8f8fa5ecb477cb27c073edb') in 0.055967 seconds
+  Import took 0.058138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.025.fbx
+  artifactKey: Guid(544335867616f314ca8ab21728e38168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.025.fbx using Guid(544335867616f314ca8ab21728e38168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73719849f9967589af7e03f6c6650734') in 0.087276 seconds
+  Import took 0.089276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Red/Red_6.mat
+  artifactKey: Guid(b95f4dcd983ef5245bdfa819b129b035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Red/Red_6.mat using Guid(b95f4dcd983ef5245bdfa819b129b035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75541edc2acc5d231f7ef91aac9d2692') in 0.100500 seconds
+  Import took 0.103416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/ThirdParty/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca0d2861f60500f05bd29199894f7bb5') in 0.077023 seconds
+  Import took 0.079366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Grey/Grey_4.mat
+  artifactKey: Guid(26b8dd4f94a96fa4fb84b5f77e6dec8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Grey/Grey_4.mat using Guid(26b8dd4f94a96fa4fb84b5f77e6dec8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05d661befee3d1becba7a011b21c9bfb') in 0.126754 seconds
+  Import took 0.172351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Grey/Grey_2.mat
+  artifactKey: Guid(8a38f2e5b0042f84b803deac4ec21533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Grey/Grey_2.mat using Guid(8a38f2e5b0042f84b803deac4ec21533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d4b62cc3de306af16dcf0c27c099709') in 0.074976 seconds
+  Import took 0.076730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Stairs.fbx
+  artifactKey: Guid(29291599b718f674fb6154fcf3642b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Stairs.fbx using Guid(29291599b718f674fb6154fcf3642b09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a99edbbb5aafae7f4120a9bd2054deee') in 0.051976 seconds
+  Import took 0.088628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Pink/Pink_7.mat
+  artifactKey: Guid(faa16790a9a67c347a7b9171e6b82ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Pink/Pink_7.mat using Guid(faa16790a9a67c347a7b9171e6b82ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a147f757733661858158357b7f1d9d3') in 0.071669 seconds
+  Import took 0.102810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.021.fbx
+  artifactKey: Guid(03277b16849e6df469a7e5b696f12dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.021.fbx using Guid(03277b16849e6df469a7e5b696f12dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e15254349e99f1a74652272507cf2a2e') in 0.152395 seconds
+  Import took 0.154928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Red/Red_3.mat
+  artifactKey: Guid(b143536856f156f479d5ed2222190dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Red/Red_3.mat using Guid(b143536856f156f479d5ed2222190dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e196a17fb2c5e257d2bdcb3d95a67a6') in 1.069890 seconds
+  Import took 1.084700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_3.mat
+  artifactKey: Guid(1d1dbf679a83bcb4a85b9af7c0dee44e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_3.mat using Guid(1d1dbf679a83bcb4a85b9af7c0dee44e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00ce064bf19111311a7c23c506654d20') in 0.078905 seconds
+  Import took 0.080649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.016.fbx
+  artifactKey: Guid(8a1a2d7af552c6a44aa26fcc01c971cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.016.fbx using Guid(8a1a2d7af552c6a44aa26fcc01c971cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50c94f850c664937a3bf18b5dbcac10c') in 0.053392 seconds
+  Import took 0.076793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_1.mat
+  artifactKey: Guid(880bf59141236224d8a8d9d3fd430708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_1.mat using Guid(880bf59141236224d8a8d9d3fd430708) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '989c216f68ed123b11195eb0307dd459') in 0.013169 seconds
+  Import took 0.015085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Yellow/Yellow_2.mat
+  artifactKey: Guid(66432ce147bda90478a02a66f572d892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Yellow/Yellow_2.mat using Guid(66432ce147bda90478a02a66f572d892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '286b02be306cc039f2b054c2a2ff08bf') in 0.094450 seconds
+  Import took 0.097675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Orange/Orange_3.mat
+  artifactKey: Guid(99b708e835983d2499c503bb9adb8462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Orange/Orange_3.mat using Guid(99b708e835983d2499c503bb9adb8462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50db7b6e1ec18e5b03d495dbf4655ee9') in 0.146876 seconds
+  Import took 0.149432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Yellow/Yellow_7.mat
+  artifactKey: Guid(ee7853e0b1e78824cadbd7c22340cbfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Yellow/Yellow_7.mat using Guid(ee7853e0b1e78824cadbd7c22340cbfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1584232a3153c9085c3b2d51ac6be82b') in 0.092073 seconds
+  Import took 0.094148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Plane 1.fbx
+  artifactKey: Guid(ce54546745e316e41827d674e957f834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Plane 1.fbx using Guid(ce54546745e316e41827d674e957f834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f876816df5f8e0ca522fd1ea69c399e4') in 0.377900 seconds
+  Import took 0.380944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Grey/Grey_7.mat
+  artifactKey: Guid(930acf7ef6b366f4382b5d9078987ec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Grey/Grey_7.mat using Guid(930acf7ef6b366f4382b5d9078987ec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd28ff5401759802e9cfad61e1fbc9d39') in 0.019655 seconds
+  Import took 0.040231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.005.fbx
+  artifactKey: Guid(3c467657b34d5c34f9ef1f82894a3839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.005.fbx using Guid(3c467657b34d5c34f9ef1f82894a3839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3da2b226f71153049b843e31a802e5f4') in 0.066129 seconds
+  Import took 0.068638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Art/Materials/CollectibleHoloMat.mat
+  artifactKey: Guid(9c2c35647f627e44baabab470694e880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Materials/CollectibleHoloMat.mat using Guid(9c2c35647f627e44baabab470694e880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b37a03dfae5806d898f3b454a1a95ed') in 0.012937 seconds
+  Import took 0.015366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Grey/Grey_3.mat
+  artifactKey: Guid(21827f1faa0421245afff441a51d4c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Grey/Grey_3.mat using Guid(21827f1faa0421245afff441a51d4c12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce401696b6fc743a816fdf932c725040') in 0.513394 seconds
+  Import took 0.537892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Orange/Orange_8.mat
+  artifactKey: Guid(66319b75c9d86c24db3297850e4d0743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Orange/Orange_8.mat using Guid(66319b75c9d86c24db3297850e4d0743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '891108cf7991c72502ea75447910a9d5') in 0.088448 seconds
+  Import took 0.090627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Textures/Grey/Materials/g1788.mat
+  artifactKey: Guid(467f536555aa0c0409ed04f48f1e522d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Textures/Grey/Materials/g1788.mat using Guid(467f536555aa0c0409ed04f48f1e522d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d4a91cbb9bc9147212a99a7dbd2625f') in 0.069344 seconds
+  Import took 0.071111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Pink/Pink_4.mat
+  artifactKey: Guid(2c385dae55bc3e04fa96cc84d18f594a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Pink/Pink_4.mat using Guid(2c385dae55bc3e04fa96cc84d18f594a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b661c57f00f0556f47a00b8ae14809d') in 0.081567 seconds
+  Import took 0.083304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.001.fbx
+  artifactKey: Guid(e8cd900667614454d949327be683d7e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.001.fbx using Guid(e8cd900667614454d949327be683d7e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b17b6368883b3da64bc913a350bea385') in 0.047855 seconds
+  Import took 0.049709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Curved Stairs.002.fbx
+  artifactKey: Guid(1fbb655bd2542f2439ce82b5db71b0b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Curved Stairs.002.fbx using Guid(1fbb655bd2542f2439ce82b5db71b0b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a98ba62fd2c08b3303cdc9df24b20ced') in 0.037629 seconds
+  Import took 0.040450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Pink/Pink_5.mat
+  artifactKey: Guid(2c42d4f0e1d1d184e83ea64bea171965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Pink/Pink_5.mat using Guid(2c42d4f0e1d1d184e83ea64bea171965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d8edc04c07a8c33757d83b7a0745c15') in 0.093739 seconds
+  Import took 0.104540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Grey/Grey_6.mat
+  artifactKey: Guid(04788ac9bcd13ba4a82acf3bec4a5b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Grey/Grey_6.mat using Guid(04788ac9bcd13ba4a82acf3bec4a5b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fffd80d2e5ceb11ed120c436a03262ac') in 0.070191 seconds
+  Import took 0.072031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_6.mat
+  artifactKey: Guid(f7b4e7377158c1740b192553e8edbd41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_6.mat using Guid(f7b4e7377158c1740b192553e8edbd41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34891bbaed87d2508ffe03ab9468a4fc') in 0.114815 seconds
+  Import took 0.117224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Pink/Pink_2.mat
+  artifactKey: Guid(47b3e3cc849f1bf468a83fe0baa944e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Pink/Pink_2.mat using Guid(47b3e3cc849f1bf468a83fe0baa944e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3040c8b08211c6bb734327376f3b7efd') in 0.132697 seconds
+  Import took 0.135401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.002.fbx
+  artifactKey: Guid(27067a016a36b16449bfc93601ee2b22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.002.fbx using Guid(27067a016a36b16449bfc93601ee2b22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1633722e39572b1a86ccdfdd19226a37') in 0.036555 seconds
+  Import took 0.038599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_5.mat
+  artifactKey: Guid(492d5fa4108a8b048ba15a6b364ee09c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Blue/Blue_5.mat using Guid(492d5fa4108a8b048ba15a6b364ee09c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4571ac3d2779024189788b8abca4ad67') in 0.064312 seconds
+  Import took 0.066091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.012.fbx
+  artifactKey: Guid(b4ebbcbce5271c8429731cd488ad9439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.012.fbx using Guid(b4ebbcbce5271c8429731cd488ad9439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08d27556bade2fcc6f1dad752a569fe1') in 0.070991 seconds
+  Import took 0.073071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Grey/Grey_8.mat
+  artifactKey: Guid(31f8586c3bdf8b64dae44a2c2eb66abd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Materials/Grey/Grey_8.mat using Guid(31f8586c3bdf8b64dae44a2c2eb66abd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c73a8324492b622955b5abe6382b3980') in 0.093690 seconds
+  Import took 0.095745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.015.fbx
+  artifactKey: Guid(eb5e1c6cdf0fd56459ff20cc5d2f10da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.015.fbx using Guid(eb5e1c6cdf0fd56459ff20cc5d2f10da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c640b0022ecd634cdbf07ca2219525c') in 0.059721 seconds
+  Import took 0.106929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.017.fbx
+  artifactKey: Guid(f9a10c95d625d2c4da8b2978808528d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Cube.017.fbx using Guid(f9a10c95d625d2c4da8b2978808528d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94dc4420640da15a720440df2c2233cb') in 0.063499 seconds
+  Import took 0.074827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Stairs.002.fbx
+  artifactKey: Guid(617734a81b02d7c44be8b52ed0fb7d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Stairs.002.fbx using Guid(617734a81b02d7c44be8b52ed0fb7d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce9bbdbdb85826bccb6233256bf63e1e') in 0.058699 seconds
+  Import took 0.061254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Curved Stairs.fbx
+  artifactKey: Guid(ea099c53ea3c25c49bbdafa816b92b52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ThirdParty/iPoly3D/Prototype Textures/Demo/Demo meshes/Curved Stairs.fbx using Guid(ea099c53ea3c25c49bbdafa816b92b52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6249c56d3d6550f3488faa061e4923e') in 0.044421 seconds
+  Import took 0.046689 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001007 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.810 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.8 MB.
+System memory in use after: 62.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1738.
+Total: 1.576900 ms (FindLiveObjects: 0.128300 ms CreateObjectMapping: 0.036500 ms MarkObjects: 1.397900 ms  DeleteObjects: 0.013400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000931 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.756 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.8 MB.
+System memory in use after: 62.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1741.
+Total: 1.643300 ms (FindLiveObjects: 0.139500 ms CreateObjectMapping: 0.036600 ms MarkObjects: 1.452600 ms  DeleteObjects: 0.013600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000992 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.735 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.8 MB.
+System memory in use after: 62.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1744.
+Total: 1.363700 ms (FindLiveObjects: 0.121700 ms CreateObjectMapping: 0.033100 ms MarkObjects: 1.197800 ms  DeleteObjects: 0.010500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 442.453106 seconds.
+  path: Assets/Scripts/Player.cs
+  artifactKey: Guid(2278574f98e17134e8df1dee3895a7fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player.cs using Guid(2278574f98e17134e8df1dee3895a7fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c392942b3000289f9bcea03ad770619') in 0.006258 seconds
+  Import took 0.007939 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001084 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.749 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.9 MB.
+System memory in use after: 63.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1747.
+Total: 1.311300 ms (FindLiveObjects: 0.123000 ms CreateObjectMapping: 0.033300 ms MarkObjects: 1.142800 ms  DeleteObjects: 0.011700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001993 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.777 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.9 MB.
+System memory in use after: 63.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1750.
+Total: 1.427600 ms (FindLiveObjects: 0.145700 ms CreateObjectMapping: 0.035700 ms MarkObjects: 1.229700 ms  DeleteObjects: 0.015600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000926 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.730 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.9 MB.
+System memory in use after: 63.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1753.
+Total: 1.314000 ms (FindLiveObjects: 0.119000 ms CreateObjectMapping: 0.032400 ms MarkObjects: 1.151400 ms  DeleteObjects: 0.010500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000971 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.823 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.9 MB.
+System memory in use after: 63.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1756.
+Total: 1.374800 ms (FindLiveObjects: 0.132400 ms CreateObjectMapping: 0.035100 ms MarkObjects: 1.195700 ms  DeleteObjects: 0.010900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001035 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.804 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.9 MB.
+System memory in use after: 63.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1759.
+Total: 1.825300 ms (FindLiveObjects: 0.162700 ms CreateObjectMapping: 0.077000 ms MarkObjects: 1.573400 ms  DeleteObjects: 0.011200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001032 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.668 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.9 MB.
+System memory in use after: 63.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1762.
+Total: 1.347600 ms (FindLiveObjects: 0.130900 ms CreateObjectMapping: 0.034100 ms MarkObjects: 1.170900 ms  DeleteObjects: 0.011000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000974 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.759 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.9 MB.
+System memory in use after: 63.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1765.
+Total: 1.337600 ms (FindLiveObjects: 0.127900 ms CreateObjectMapping: 0.033900 ms MarkObjects: 1.163300 ms  DeleteObjects: 0.011500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002853 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.709 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.9 MB.
+System memory in use after: 63.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1768.
+Total: 2.152600 ms (FindLiveObjects: 0.183800 ms CreateObjectMapping: 0.051000 ms MarkObjects: 1.901500 ms  DeleteObjects: 0.015000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000975 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.736 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.9 MB.
+System memory in use after: 63.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1771.
+Total: 1.733400 ms (FindLiveObjects: 0.235300 ms CreateObjectMapping: 0.049500 ms MarkObjects: 1.435500 ms  DeleteObjects: 0.012200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000979 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.810 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.9 MB.
+System memory in use after: 63.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1774.
+Total: 2.095800 ms (FindLiveObjects: 0.160400 ms CreateObjectMapping: 0.035900 ms MarkObjects: 1.881300 ms  DeleteObjects: 0.017500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001070 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.733 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.9 MB.
+System memory in use after: 63.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1777.
+Total: 1.429300 ms (FindLiveObjects: 0.138300 ms CreateObjectMapping: 0.035400 ms MarkObjects: 1.242200 ms  DeleteObjects: 0.012700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001131 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.808 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.0 MB.
+System memory in use after: 63.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1780.
+Total: 1.554800 ms (FindLiveObjects: 0.137900 ms CreateObjectMapping: 0.037600 ms MarkObjects: 1.365800 ms  DeleteObjects: 0.012600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000907 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.726 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.0 MB.
+System memory in use after: 63.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1783.
+Total: 1.739200 ms (FindLiveObjects: 0.162600 ms CreateObjectMapping: 0.043000 ms MarkObjects: 1.516300 ms  DeleteObjects: 0.016400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001560 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.819 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.0 MB.
+System memory in use after: 63.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1786.
+Total: 2.110500 ms (FindLiveObjects: 0.176300 ms CreateObjectMapping: 0.045600 ms MarkObjects: 1.871700 ms  DeleteObjects: 0.015700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001130 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.832 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.0 MB.
+System memory in use after: 63.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1789.
+Total: 1.458300 ms (FindLiveObjects: 0.179200 ms CreateObjectMapping: 0.039500 ms MarkObjects: 1.227300 ms  DeleteObjects: 0.011500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001113 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.684 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1144 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.0 MB.
+System memory in use after: 63.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1792.
+Total: 1.369000 ms (FindLiveObjects: 0.134200 ms CreateObjectMapping: 0.033500 ms MarkObjects: 1.188100 ms  DeleteObjects: 0.012500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1782.662047 seconds.
+  path: Assets/Scripts/Managers/InputManager.cs
+  artifactKey: Guid(7e1302a24fed87e4ea9c2105f84025fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Managers/InputManager.cs using Guid(7e1302a24fed87e4ea9c2105f84025fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6232b4906ad0c00aab667c5cc17eeaee') in 0.007099 seconds
+  Import took 0.033139 seconds .
+
