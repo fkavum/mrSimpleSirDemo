@@ -1,0 +1,5 @@
+- Project Version: 2020.3.9
+- How to play:
+	- WASD to move on keyboard.
+	- invisible joystick controls for touch
+		- Sausage wars game was using fixed joystick control, I used dynamic since I love it more.
