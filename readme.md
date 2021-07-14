@@ -3,3 +3,4 @@
 	- WASD to move on keyboard.
 	- invisible joystick controls for touch
 		- Sausage wars game was using fixed joystick control, I used dynamic since I love it more.
+-Build in the "ApkBuild" directory.

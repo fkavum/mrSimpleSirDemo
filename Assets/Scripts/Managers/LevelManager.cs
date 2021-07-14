@@ -7,7 +7,6 @@ public class LevelManager : Singleton<LevelManager>
     private int currentScore = 0;
     public int winScore = 100;
 
-
     private CollectibleSpawner[] spawners;
     [HideInInspector]public Player player;
 
@@ -62,6 +61,7 @@ public class LevelManager : Singleton<LevelManager>
 
     private void CheckWinCondition()
     {
+        if (GameState.CurrentState() != GameStateEnum.InGame) return;
         if(currentScore >= winScore)
         {
             UIManager.Instance.OpenWinMenuUI();

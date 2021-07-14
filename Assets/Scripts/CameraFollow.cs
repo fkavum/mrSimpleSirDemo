@@ -31,7 +31,7 @@ public class CameraFollow : MonoBehaviour
         newPos.x = Mathf.SmoothDamp(transform.position.x, targetPosition.x, ref velocityX, SmoothTimeX);
         newPos.z = Mathf.SmoothDamp(transform.position.z, targetPosition.z, ref velocityZ, SmoothTimeZ);
 
-        newPos.y = targetPosition.y + Mathf.Abs(velocityZ * 0.2f);
+        newPos.y = Offset.y + Mathf.Abs(velocityZ * 0.2f);
 
         transform.position = newPos;
 
